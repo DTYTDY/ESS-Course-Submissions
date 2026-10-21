@@ -1,0 +1,15 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.slxc
+
+# Solver licenses and logs
+gurobi.lic
+mosek.lic
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
